@@ -1,0 +1,15 @@
+.c-prev {
+  left: 87% !important;
+  bottom: 5% !important;
+}
+
+.c-next {
+  right: 2% !important;
+  bottom: 5% !important;
+}
+
+.c-prev, .c-next {
+  top: 85%;
+  width: 5%; 
+}
+
